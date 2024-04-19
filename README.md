@@ -1,0 +1,1 @@
+Technology used: Java and AspectJ An address book that uses various Object-Oriented Programming best practices and includes leveraging AspectJ to log changed/deleted data to a text file each time a contact in the address book is edited or deleted. 
